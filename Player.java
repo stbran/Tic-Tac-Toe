@@ -7,7 +7,6 @@ public class Player {
     public static String userY;
     public static Scanner scanner = new Scanner(System.in);
     public char _sign;
-//    public int steps = 0;
 
 
     public Player(char sign) {
